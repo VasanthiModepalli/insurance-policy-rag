@@ -1,0 +1,11 @@
+chunk_size,question,expected,answer,pages,verdict
+300,What is the Plus Benefit?,Base cover increases by 50% after 1 year and 100% after 2 years,"Based on the document, the Plus Benefit is a feature of Optima Secure where your base cover (sum insured) automatically increases by 50% after 1 year (or 50% per year) and by 100% after 2 years (maximum up to 100%), irrespective of any claims made [Page 4, Page 20].","[4, 14, 15, 20]",
+300,Does the Plus Benefit depend on not making claims?,"No, applies irrespective of claims","No, the Plus Benefit does not depend on not making claims. It increases automatically (by 50% after 1 year and 100% after 2 years) irrespective of any claims made [Page 4, Page 20].","[4, 14, 20]",
+300,When does the Restore Benefit apply?,"When any claim, partial or total, is made during the policy year","Based on the provided context, it applies automatically once in a policy year and can be utilised for subsequent claims that arise in the remainder of the policy year (Page 5).","[5, 14]",
+300,How much of the base cover is restored?,100%,"Based on the context, 100% of the base cover is restored (Page 7).","[7, 11, 14, 20]",
+300,How many times can cover be restored in a year?,Once per policy year,"Based on the provided document:
+
+* It gets restored **once** in a policy year automatically [Page 5].
+* Under the ""Unlimited Restore"" add-on, it provides **unlimited** restorations in a policy year [Page 15].","[5, 7, 14, 15]",
+300,Is there an extra charge for the restored amount?,"No, at no additional cost","No, there is no extra charge; it can be utilised at no additional cost (Page 5).","[5, 7, 14, 15]",
+300,What do the benefits together give?,4X coverage,I couldn't find this in the document.,"[4, 14, 15, 20]",

@@ -1,0 +1,15 @@
+# Cached LLM answers (local only)
+llm_cache.json
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Secrets - never commit API keys
+.env
+.streamlit/secrets.toml
+
+# OS junk
+.DS_Store
+Thumbs.db

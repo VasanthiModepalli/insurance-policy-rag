@@ -38,7 +38,6 @@ Project files
 ├── app.py               # Streamlit web UI (upload any PDF and ask questions)
 ├── run_tests.py         # runs a list of test questions and saves the answers to a CSV
 ├── check_pdf.py         # prints a few chunks to check the PDF text extracted properly
-├── debug_retrieval.py   # shows which chunks the retriever finds (no LLM, no API cost)
 ├── requirements.txt
 └── policy.pdf           # sample document (public brochure)
 Run it yourself
